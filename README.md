@@ -1,2 +1,2 @@
 # weather-app
-A simple weather app that uses the OpenWeatherMap API to get weather data.
+A simple weather app that uses the Open-Meteo API to get weather data.
